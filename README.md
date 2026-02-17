@@ -1,4 +1,3 @@
-# 💫 About Me:
 ## 👋 Hi, I'm Sachin Kumar  <br><br>🎓 Computer Science Student  <br>💻 Passionate about Data Structures & Algorithms  <br>🚀 Preparing for Company Placements  <br><br>I am currently focused on mastering DSA and improving my problem-solving skills.  <br>I enjoy solving coding problems and building projects to strengthen my fundamentals in Java and backend development.<br><br>🔹 Currently Learning:<br>- Data Structures & Algorithms (Java)<br>- System Design Basics<br>- Database Management Systems<br><br>🔹 Goals:<br>- Crack top product-based companies<br>- Build strong logical thinking skills<br>- Contribute to open-source projects<br><br>📫 Reach me at: your-email@example.com<br>
 
 
